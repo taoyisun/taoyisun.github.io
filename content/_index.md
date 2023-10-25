@@ -17,7 +17,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Please contact me if you would like to chat.
+        Please contact me if you would like to chat!
       # Contact (add or remove contact options as necessary)
       email: taoyisun.ts@gmail.com
       phone: +86 18033328096
