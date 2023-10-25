@@ -45,11 +45,7 @@ header:
 footer:
   copyright:
     notice: 'Last update on Oct 28, 2023'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+
 
 # Localization
 
