@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  font: minimal
+  theme_day: earth
+  font: earth
   font_size: M
 
 # SEO
