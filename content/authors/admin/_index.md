@@ -9,14 +9,6 @@ status:
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: Research Assistant
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: International Food Policy Research Institute
-    url: https://www.ifpri.org/
-
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
@@ -49,5 +41,5 @@ social:
 highlight_name: true
 ---
 
-I am currently a research assistant at the International Food Policy Research Institute (IFPRI), East and Central Asia office. At IFPRI, I focus on the impact assessment of regional integration, particularly in the agri-food sector, on child health. I am also studying the potential impact of the sustainable food value chain, and the country-level diagnotic analyasis for agri-food system transformation. Prior to joining IFPRI, I completed my master's degree at the University of Edinburgh (2021), and my bachelor's degree in International Economics and Trade at Guangdong University of Foreign Studies (2020).
+I am currently a research assistant at the International Food Policy Research Institute [I'm an external link](https://www.ifpri.org/) (IFPRI), East and Central Asia office. At IFPRI, I focus on the impact assessment of regional integration, particularly in the agri-food sector, on child health. I am also studying the potential impact of the sustainable food value chain, and the country-level diagnotic analyasis for agri-food system transformation. Prior to joining IFPRI, I completed my master's degree at the University of Edinburgh (2021), and my bachelor's degree in International Economics and Trade at Guangdong University of Foreign Studies (2020).
 {style="text-align: justify;"}
