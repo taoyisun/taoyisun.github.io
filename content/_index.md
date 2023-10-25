@@ -20,6 +20,7 @@ sections:
         Please email me if you would like to chat!
       # Contact (add or remove contact options as necessary)
       email: taoyisun.ts@gmail.com
+      work: taoyi.sun@cgiar.org 
       phone: +86 18033328096
       # Automatically link email and phone or display as text?
       autolink: true
