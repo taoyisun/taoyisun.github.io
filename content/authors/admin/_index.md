@@ -41,5 +41,5 @@ social:
 highlight_name: true
 ---
 
-I am currently a research assistant at [International Food Policy Research Institute](https://www.ifpri.org/) (IFPRI), East and Central Asia office. At IFPRI, I focus on the impact assessment of regional integration, particularly in the agri-food sector, on child health. I am also studying the evaluation of the sustainable food value chain, and the country-level diagnotic analysis for agri-food system transformation. Prior to joining IFPRI, I completed my master's degree in economics at the University of Edinburgh (2021), and my bachelor's degree in International Economics and Trade at Guangdong University of Foreign Studies (2020).
+I am currently a research assistant working at [International Food Policy Research Institute](https://www.ifpri.org/) (IFPRI), East and Central Asia office. At IFPRI, I focus on the impact assessment of regional integration, particularly in the agri-food sector, on child health. I am also studying the evaluation of the sustainable food value chain, and the country-level diagnotic analysis for agri-food system transformation. Prior to joining IFPRI, I completed my master's degree in economics at the University of Edinburgh (2021), and my bachelor's degree in International Economics and Trade at Guangdong University of Foreign Studies (2020).
 {style="text-align: justify;"}
