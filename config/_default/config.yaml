@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Taoyi Sun # Website name
-baseURL: 'http://taoyisun.com/' # Website URL
+baseURL: 'taoyisun.com' # Website URL
 
 ############################
 ## LANGUAGE
