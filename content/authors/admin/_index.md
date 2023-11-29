@@ -2,8 +2,8 @@
 # Display name
 title: Taoyi Sun
 
-# Name pronunciation (optional)
-name_pronunciation: /tao-ee/ /suen/
+# Role/position/tagline
+role: /tao-ee/ /suen/
 
 # Status emoji
 status:
