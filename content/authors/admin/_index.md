@@ -2,6 +2,9 @@
 # Display name
 title: Taoyi Sun
 
+# name pronunciation
+name_pronounciation: /tao-ee/ /suen/
+
 # Status emoji
 status:
   icon: ☕️
@@ -17,7 +20,6 @@ interests:
   - Development Economics
   - Health Economics
   - Family Economics
-  - International Economics
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
